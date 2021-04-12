@@ -10,11 +10,11 @@
     },
     "icon": "logo.png",
     "repository": {
-        "url": "https://github.com/worksome/worksome-vscode-extension-pack"
+        "url": "https://github.com/worksome/vscode-extension-pack"
       },
-    "homepage": "https://github.com/worksome/worksome-vscode-extension-pack",
+    "homepage": "https://github.com/worksome/vscode-extension-pack",
     "bugs": {
-        "url": "https://github.com/worksome/worksome-vscode-extension-pack/issues"
+        "url": "https://github.com/worksome/vscode-extension-pack/issues"
     },
     "keywords": [
         "worksome",
@@ -32,6 +32,13 @@
         "bmewburn.vscode-intelephense-client",
         "amiralizadeh9480.laravel-extra-intellisense",
         "breezelin.phpstan",
-        "junstyle.php-cs-fixer"
+        "junstyle.php-cs-fixer",
+        "GraphQL.vscode-graphql",
+        "apollographql.vscode-apollo",
+        "dbaeumer.vscode-eslint",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "octref.vetur",
+        "redhat.vscode-yaml"
     ]
 }
