@@ -4,6 +4,7 @@
     "description": "Collection of recommended extensions used at Worksome.",
     "version": "0.1.0",
     "license": "SEE LICENSE IN LICENSE",
+    "publisher": "worksome",
     "galleryBanner": {
         "color": "#4d5af4",
         "theme": "dark"
