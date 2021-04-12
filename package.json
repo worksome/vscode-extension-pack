@@ -1,0 +1,37 @@
+{
+    "name": "worksome-vscode-extension-pack",
+    "displayName": "Worksome VSCode Extension Pack",
+    "description": "Collection of recommended extensions used at Worksome.",
+    "version": "0.1.0",
+    "license": "SEE LICENSE IN LICENSE",
+    "galleryBanner": {
+        "color": "#4d5af4",
+        "theme": "dark"
+    },
+    "icon": "logo.png",
+    "repository": {
+        "url": "https://github.com/worksome/worksome-vscode-extension-pack"
+      },
+    "homepage": "https://github.com/worksome/worksome-vscode-extension-pack",
+    "bugs": {
+        "url": "https://github.com/worksome/worksome-vscode-extension-pack/issues"
+    },
+    "keywords": [
+        "worksome",
+        "extension pack"
+    ],
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "mikestead.dotenv",
+        "EditorConfig.EditorConfig",
+        "bmewburn.vscode-intelephense-client",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "breezelin.phpstan",
+        "junstyle.php-cs-fixer"
+    ]
+}
