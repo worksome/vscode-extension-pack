@@ -6,8 +6,8 @@
     "license": "SEE LICENSE IN LICENSE",
     "publisher": "worksome",
     "galleryBanner": {
-        "color": "#4d5af4",
-        "theme": "dark"
+        "color": "#0E0D12",
+        "theme": "light"
     },
     "icon": "logo.png",
     "repository": {
@@ -27,7 +27,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "mikestead.dotenv",
         "EditorConfig.EditorConfig",
         "bmewburn.vscode-intelephense-client",
