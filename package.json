@@ -2,7 +2,7 @@
     "name": "worksome-vscode-extension-pack",
     "displayName": "Worksome VSCode Extension Pack",
     "description": "Collection of recommended extensions used at Worksome.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "SEE LICENSE IN LICENSE",
     "publisher": "worksome",
     "galleryBanner": {
@@ -12,7 +12,7 @@
     "icon": "logo.png",
     "repository": {
         "url": "https://github.com/worksome/vscode-extension-pack"
-      },
+    },
     "homepage": "https://github.com/worksome/vscode-extension-pack",
     "bugs": {
         "url": "https://github.com/worksome/vscode-extension-pack/issues"
