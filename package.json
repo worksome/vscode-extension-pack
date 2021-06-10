@@ -6,8 +6,8 @@
     "license": "SEE LICENSE IN LICENSE",
     "publisher": "worksome",
     "galleryBanner": {
-        "color": "#0E0D12",
-        "theme": "dark"
+        "color": "#EBEBEB",
+        "theme": "light"
     },
     "icon": "logo.png",
     "repository": {
