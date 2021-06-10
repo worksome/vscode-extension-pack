@@ -2,7 +2,7 @@
     "name": "worksome-vscode-extension-pack",
     "displayName": "Worksome VSCode Extension Pack",
     "description": "Collection of recommended extensions used at Worksome.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "license": "SEE LICENSE IN LICENSE",
     "publisher": "worksome",
     "galleryBanner": {
