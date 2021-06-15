@@ -1,4 +1,8 @@
-# README
+# Worksome VSCode Extension Pack
+
+![](https://vsmarketplacebadge.apphb.com/version-short/Worksome.worksome-vscode-extension-pack.svg?style=flat-square)
+![](https://vsmarketplacebadge.apphb.com/installs-short/Worksome.worksome-vscode-extension-pack.svg?style=flat-square)
+![](https://vsmarketplacebadge.apphb.com/rating-short/Worksome.worksome-vscode-extension-pack.svg?style=flat-square)
 
 Collection of recommended extensions used at Worksome.
 
