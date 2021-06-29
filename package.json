@@ -40,6 +40,8 @@
         "eg2.vscode-npm-script",
         "esbenp.prettier-vscode",
         "octref.vetur",
-        "redhat.vscode-yaml"
+        "redhat.vscode-yaml",
+        "stylelint.vscode-stylelint",
+        "bradlc.vscode-tailwindcss"
     ]
 }
