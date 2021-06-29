@@ -21,5 +21,7 @@ Collection of recommended extensions used at Worksome.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter - Code formatter using prettier
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VS Code
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+- 🆕 [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Modern CSS/SCSS/Less linter
+- 🆕 [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code
 
 **Enjoy!**
