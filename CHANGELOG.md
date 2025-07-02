@@ -4,6 +4,10 @@ All notable changes to the "worksome-vscode-extension-pack" extension pack will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.5]
+
+- Remove `npm` extension, as it's deprecated and supported by VSCode natively now
+
 ## [0.2.4]
 
 - Remove `php-cs-fixer` extension, as we don't use that
